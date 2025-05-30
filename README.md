@@ -68,7 +68,7 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/victor-chege/)  
+- [LinkedIn](https://www.linkedin.com/in/victorchege/)  
 - [Twitter](https://twitter.com/_victorchege_)  
 - [Email](victrchege@gmail.com)  
 
